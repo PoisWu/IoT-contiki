@@ -1,5 +1,10 @@
 WU_Cheng-Yen*
+RIO201 (1)
+note.md
+source_code
+
 ## Core latex/pdflatex auxiliary files:
+*.tex
 *.aux
 *.lof
 *.log
